@@ -41,7 +41,7 @@
                 <!-- Opción para mostrar/ocultar contraseña -->
                 <input type="checkbox" id="showPassword"> Mostrar contrasena
             </div>
-            <button type="submit" class="btn btn-primary w-100">Iniciar Sesión</button>
+            <button type="submit" class="btn btn-primary w-100">Iniciar Sesion</button>
         </form>
         <p class="mt-3 text-center">No tienes una cuenta? <a href="Register.jsp">Registrate</a></p>
     </div>
