@@ -36,14 +36,14 @@
                 <input type="email" class="form-control" id="correo" name="correo" required>
             </div>
             <div class="mb-3">
-                <label for="contrasena" class="form-label">Contraseña</label>
+                <label for="contrasena" class="form-label">Contrasena</label>
                 <input type="password" class="form-control" id="contrasena" name="contrasena" required>
                 <!-- Opción para mostrar/ocultar contraseña -->
-                <input type="checkbox" id="showPassword"> Mostrar contraseña
+                <input type="checkbox" id="showPassword"> Mostrar contrasena
             </div>
             <button type="submit" class="btn btn-primary w-100">Iniciar Sesión</button>
         </form>
-        <p class="mt-3 text-center">¿No tienes una cuenta? <a href="Register.jsp">Regístrate</a></p>
+        <p class="mt-3 text-center">No tienes una cuenta? <a href="Register.jsp">Registrate</a></p>
     </div>
 
     <script>
